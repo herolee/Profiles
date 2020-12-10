@@ -1,4 +1,5 @@
 # Unbreak
+DOMAIN-SUFFIX, pocketcasts.com, proxy
 # > General
 USER-AGENT,archero*,DIRECT
 USER-AGENT,coffeecorp*,DIRECT

@@ -70,6 +70,8 @@ DOMAIN,d1v5ir2lpwr8os.cloudfront.net,Streaming
 DOMAIN,d27xxe7juh1us6.cloudfront.net,Streaming
 DOMAIN-KEYWORD,avoddashs,Streaming
 # > Apple TV
+USER-AGENT,AppleTV*,PROXY
+USER-AGENT,com.apple.tv*,PROXY
 DOMAIN-SUFFIX,tv.apple.com,Streaming
 DOMAIN,hls.itunes.apple.com,Streaming
 DOMAIN,hls-amt.itunes.apple.com,Streaming
